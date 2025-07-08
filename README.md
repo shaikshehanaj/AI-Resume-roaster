@@ -2,7 +2,7 @@
 
 A Streamlit-based AI-powered resume analyzer that uses Google's Gemini API to roast your resume and provide brutally honest, witty, and insightful feedback.
 
-## 🔧 Features
+## Features
 
 - Upload resumes in PDF or TXT format
 - Choose your target job role
@@ -10,7 +10,7 @@ A Streamlit-based AI-powered resume analyzer that uses Google's Gemini API to ro
 - Get sarcastic and actionable AI-generated feedback
 - Gemini 1.5 Flash API integration
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Python
 - Streamlit
@@ -18,7 +18,7 @@ A Streamlit-based AI-powered resume analyzer that uses Google's Gemini API to ro
 - python-dotenv
 - PyPDF2
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repo:
    ```bash
